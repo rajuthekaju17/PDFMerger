@@ -4,7 +4,7 @@
 The PDFMerger is a simple Python script designed to merge multiple PDF files into a single, consolidated PDF document. This script utilizes the PyPDF2 library to provide a hassle-free solution for users looking to combine PDFs effortlessly.
 
 # Prerequisites
-Python 3.x
+Python 3.x,
 PyPDF2 library
 
 # Installation
