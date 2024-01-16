@@ -12,7 +12,7 @@ PyPDF2 library
 2) Install the PyPDF2 library using "pip install PYPDF2".
 
 # Usage
-1) Clone the repository or download the pdf_merger.py script.
+1) Clone the repository or download the PDFMerger.py script.
 2) Run the script.
 3) Follow the on-screen instructions to input the paths of the PDF files you want to merge and the desired output file name.
 
